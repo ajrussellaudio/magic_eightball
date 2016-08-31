@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Eightball</string>
+    <string name="question">Enter a question...</string>
+    <string name="shake">Shake the ball</string>
+    <string name="answer_title">Magic 8 Ball says...</string>
+</resources>
